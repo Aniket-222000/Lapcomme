@@ -9,8 +9,3 @@
 
 **Server:** PHP, SQL
 
-
-## View the Site / Live
-
-[Lapcomme.ddns.net](https://lapcommee.000webhostapp.com/)
-
